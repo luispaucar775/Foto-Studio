@@ -110,6 +110,8 @@ public class clientes extends javax.swing.JFrame {
        lblSubtotal.setText(String.valueOf(s));
        lbliva.setText(String.valueOf(iva));
        lblTotal.setText(String.valueOf(total));
+       
+      
    }
    
    

@@ -134,6 +134,13 @@ String pass="";
             }
         }else{
             JOptionPane.showMessageDialog(null,"Debe llenar todos los campos para poder ingresar al sistema");
+            
+            
+            
+            
+            
+            //123456789
+            //12345678+9
         }
     }//GEN-LAST:event_btnAccederActionPerformed
 
