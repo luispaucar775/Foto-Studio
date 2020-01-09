@@ -9,7 +9,7 @@ package ventanas.fotostudio;
 //probando compatibilidad david paucar...
 /**
  *
- * @author UserTe
+ * @author UserTeeee
  */
 public class Tecnico extends javax.swing.JFrame {
 
