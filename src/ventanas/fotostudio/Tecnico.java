@@ -1,16 +1,12 @@
 
 
 
-/*
- probando compatibilidad tu pecho miguelchimbo :) .
- */
+
 package ventanas.fotostudio;
 
-//probando compatibilidad david paucar...
-/**
- *
- * @author UserTeeee
- */
+//DIEGO SANCHEZ 12345678910
+
+
 public class Tecnico extends javax.swing.JFrame {
 
     /**
