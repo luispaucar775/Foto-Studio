@@ -1,6 +1,6 @@
 
 package ventanas.fotostudio;
-//probando compatibilidad david paucar..
+//probando compatibilidad david paucar...
 /**
  *
  * @author UserTek
