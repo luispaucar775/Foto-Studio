@@ -1,6 +1,6 @@
-
+// DIEGO SANCHEZZZ 123456789
 package ventanas.fotostudio;
-
+// DIEGO SANCHEZ 12345678910
 import java.sql.*;
 import clases.fotostudio.conexion;
 import javax.swing.JOptionPane;
