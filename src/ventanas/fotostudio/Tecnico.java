@@ -5,7 +5,10 @@
 package ventanas.fotostudio;
 
 //DIEGO SANCHEZ 12345678910
-
+//DIEGO SANCHEZ 12345678910
+//DIEGO SANCHEZ 12345678910
+//DIEGO SANCHEZ 12345678910
+//DIEGO SANCHEZ 12345678910
 
 public class Tecnico extends javax.swing.JFrame {
 
